@@ -1,2 +1,2 @@
-# python-utils
+# pyutils
 Some python utils.
